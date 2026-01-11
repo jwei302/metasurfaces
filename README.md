@@ -1,7 +1,7 @@
 # A Review of Metasurfaces: Principles and Applications
 A self-contained review of optical metasurfaces covering theoretical foundations, design frameworks, and applications in imaging, holography, and sensing.
 
-**Abstract**
+**Abstract**: 
 The miniaturization of optical systems is currently limited by the volumetric nature of refractive
 lenses. Metasurfaces overcome this barrier by encoding optical functionality into ultrathin, subwave-
 length arrays. This review establishes the theoretical foundations of flat optics, contrasting
